@@ -1,0 +1,3 @@
+rootProject=whatsgou
+
+include ':background' ,':home'
